@@ -21,7 +21,6 @@ sudo welcome.👋
 - Linux
 - Terraform
 - Ansible
-- Puppet
 - Docker
 - Kubernetes
 - CI/CD (Continuous Integration/Continuous Deployment)
